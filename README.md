@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 Soy Benjamín Flores, actuario de la UNAM
+
+Es mi primer intentó de presentarme en Github
 <!--
 **benjaminfl/benjaminfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
